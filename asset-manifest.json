@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clase23-ejercicio/static/css/main.c2cab247.css",
+    "main.js": "/clase23-ejercicio/static/js/main.f46f46b7.js",
+    "static/media/carrousel-3.jpg": "/clase23-ejercicio/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "index.html": "/clase23-ejercicio/index.html",
+    "main.c2cab247.css.map": "/clase23-ejercicio/static/css/main.c2cab247.css.map",
+    "main.f46f46b7.js.map": "/clase23-ejercicio/static/js/main.f46f46b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.f46f46b7.js"
+  ]
+}
